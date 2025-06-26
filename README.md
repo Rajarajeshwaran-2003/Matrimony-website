@@ -3,7 +3,7 @@
 Welcome to the **Matrimony Website** – a beautifully designed frontend project built using **React.js** and **Vite**. This website simulates a modern matchmaking platform with attractive UI, animated components, and mobile responsiveness.
 
 > 🔗 **Live Demo:**
-> 👉 [https://rajarajeshwaran-2003.github.io/Motrimony-website/](https://rajarajeshwaran-2003.github.io/Motrimony-website/)
+> 👉 [https://rajarajeshwaran-2003.github.io/Motrimony-website/](https://incredible-treacle-90bf48.netlify.app/)
 
 ---
 
