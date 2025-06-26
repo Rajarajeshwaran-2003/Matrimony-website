@@ -34,7 +34,7 @@ Welcome to the **Matrimony Website** – a beautifully designed frontend project
 ## 🚀 Live Preview
 
 🔗 View the deployed website:
-👉 [Matrimony Website GitHub Pages](https://rajarajeshwaran-2003.github.io/Motrimony-website/)
+👉 [Matrimony Website GitHub Pages](https://incredible-treacle-90bf48.netlify.app/)
 
 ---
 
